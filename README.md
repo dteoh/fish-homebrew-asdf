@@ -11,7 +11,7 @@ Assuming that you have already installed asdf through Homebrew, and are using a
 fish shell plugin manager like [Fisher][3]:
 
 ```
-$ fisher add dteoh/fish-homebrew-asdf
+$ fisher install dteoh/fish-homebrew-asdf
 ```
 
 Start a new shell, enjoy asdf.
